@@ -3,7 +3,6 @@
   "email": "jeremy.sintes@gmail.com",
   "project_name": "Python boilerplate",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
-  "project_short_description": "Python boilerplate contains all the boilerplate you need to create a python project, pypi or web app based on flask and a CSS framework.",
-
+  "project_short_description": "Python boilerplate contains all the boilerplate you need to create a python project, pypi or web app based on flask and a CSS framework."
 }
 
