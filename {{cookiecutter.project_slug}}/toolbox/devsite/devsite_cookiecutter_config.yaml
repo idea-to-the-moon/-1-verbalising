@@ -4,4 +4,3 @@ default_context:
     project_name: "{{cookiecutter.project_name}}"
     project_slug: "{{cookiecutter.project_slug}}"
     project_short_description: "{{cookiecutter.project_short_description}}"
-    
